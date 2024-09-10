@@ -1,0 +1,18 @@
+Bao gồm các thư mục:
+- CSDL (QLBH.bak (QLBH_Script dự phòng))
+- Báo Cáo
+- Mô hình (file mô hình BFD, DFD, UseCase trong draw.io và ERD, Logic trong PowerDesigner)
+- HDSD.txt
+
+Đối với nhân viên bán hàng
+- Tài khoản : banhangseeson
+- Mật khẩu : 12345
+Đối với nhân viên kho
+- Tài khoản : khoseeson
+- Mật khẩu : 12345
+Đối với nhân viên quản lý
+- Tài khoản : qlseeson
+- Mật khẩu : 12345
+
+*Lưu ý*
+Nếu không chạy được (do kết nối CSDL) vui lòng đổi .\\SQLEXPRESS trong lớp kết nối thành tên Server máy bạn.
